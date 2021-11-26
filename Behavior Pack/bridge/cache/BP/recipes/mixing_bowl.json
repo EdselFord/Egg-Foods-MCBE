@@ -1,0 +1,196 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Egg Foods\\recipes\\mixing_bowl.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "61ba2002_9d94_4d34_bb44_cc3c88933b1a",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.17.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "eggfood:mixing_bowl"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"aba",
+							" a "
+						],
+						"key": {
+							"a": {
+								"item": "minecraft:iron_ingot"
+							},
+							"b": {
+								"item": "minecraft:stick"
+							}
+						},
+						"result": [
+							{
+								"item": "eggfood:mixing_bowl"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "eggfood:mixing_bowl"
+						}
+					},
+					{
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:mixing_bowl"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"aba",
+								" a "
+							],
+							"key": {
+								"a": {
+									"item": "minecraft:iron_ingot"
+								},
+								"b": {
+									"item": "minecraft:stick"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:mixing_bowl"
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"aba",
+							" a "
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:mixing_bowl"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"aba",
+								" a "
+							],
+							"key": {
+								"a": {
+									"item": "minecraft:iron_ingot"
+								},
+								"b": {
+									"item": "minecraft:stick"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:mixing_bowl"
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"a": {
+										"item": "minecraft:iron_ingot"
+									},
+									"b": {
+										"item": "minecraft:stick"
+									}
+								},
+								"key": "a",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:iron_ingot"
+								}
+							},
+							{
+								"open": {
+									"a": {
+										"item": "minecraft:iron_ingot"
+									},
+									"b": {
+										"item": "minecraft:stick"
+									}
+								},
+								"key": "b",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:stick"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:mixing_bowl"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"aba",
+								" a "
+							],
+							"key": {
+								"a": {
+									"item": "minecraft:iron_ingot"
+								},
+								"b": {
+									"item": "minecraft:stick"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:mixing_bowl"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "eggfood:mixing_bowl"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:mixing_bowl"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

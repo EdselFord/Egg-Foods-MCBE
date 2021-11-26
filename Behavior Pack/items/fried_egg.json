@@ -1,0 +1,30 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.17.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eggfood:fried_egg",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:use_duration": 1.5,
+			"minecraft:max_stack_size": 64,
+			"minecraft:food": {
+				"nutrition": 3,
+				"can_always_eat": false,
+				"saturation_modifier": "normal"
+			},
+			"minecraft:use_animation": "eat",
+			"minecraft:icon": {
+				"texture": "fried_egg"
+			},
+			"minecraft:display_name": {
+				"value": "Fried Egg"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.cookedFood"
+			}
+		},
+		"events": {}
+	}
+}

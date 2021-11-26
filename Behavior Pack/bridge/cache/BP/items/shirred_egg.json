@@ -1,0 +1,162 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Egg Foods\\items\\shirred_egg.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "e9619f54_a58d_4b12_b5ec_bd397d508e13",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:item": {
+						"description": {
+							"identifier": "eggfood:shirred_egg",
+							"category": "equipment"
+						},
+						"components": {
+							"minecraft:use_duration": 2,
+							"minecraft:max_stack_size": 1,
+							"minecraft:food": {
+								"nutrition": 5,
+								"can_always_eat": false,
+								"saturation_modifier": "good",
+								"using_converts_to": "minecraft:bowl"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:display_name": {
+								"value": "Shirred Egg"
+							},
+							"minecraft:icon": {
+								"texture": "shirred_egg"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.miscFood"
+							}
+						}
+					}
+				},
+				"data": "1.17.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:item": {
+						"description": {
+							"identifier": "eggfood:shirred_egg",
+							"category": "equipment"
+						},
+						"components": {
+							"minecraft:use_duration": 2,
+							"minecraft:max_stack_size": 1,
+							"minecraft:food": {
+								"nutrition": 5,
+								"can_always_eat": false,
+								"saturation_modifier": "good",
+								"using_converts_to": "minecraft:bowl"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:display_name": {
+								"value": "Shirred Egg"
+							},
+							"minecraft:icon": {
+								"texture": "shirred_egg"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.miscFood"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:shirred_egg",
+								"category": "equipment"
+							},
+							"components": {
+								"minecraft:use_duration": 2,
+								"minecraft:max_stack_size": 1,
+								"minecraft:food": {
+									"nutrition": 5,
+									"can_always_eat": false,
+									"saturation_modifier": "good",
+									"using_converts_to": "minecraft:bowl"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:display_name": {
+									"value": "Shirred Egg"
+								},
+								"minecraft:icon": {
+									"texture": "shirred_egg"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.miscFood"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "eggfood:shirred_egg",
+							"category": "equipment"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:shirred_egg",
+								"category": "equipment"
+							},
+							"components": {
+								"minecraft:use_duration": 2,
+								"minecraft:max_stack_size": 1,
+								"minecraft:food": {
+									"nutrition": 5,
+									"can_always_eat": false,
+									"saturation_modifier": "good",
+									"using_converts_to": "minecraft:bowl"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:display_name": {
+									"value": "Shirred Egg"
+								},
+								"minecraft:icon": {
+									"texture": "shirred_egg"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.miscFood"
+								}
+							}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:use_duration": 2,
+							"minecraft:max_stack_size": 1,
+							"minecraft:food": {
+								"nutrition": 5,
+								"can_always_eat": false,
+								"saturation_modifier": "good",
+								"using_converts_to": "minecraft:bowl"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:display_name": {
+								"value": "Shirred Egg"
+							},
+							"minecraft:icon": {
+								"texture": "shirred_egg"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.miscFood"
+							}
+						}
+					}
+				]
+			}
+		]
+	}
+}

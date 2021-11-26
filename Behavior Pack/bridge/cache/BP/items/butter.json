@@ -1,0 +1,172 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Egg Foods\\items\\butter.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "c4cd1168_0e2c_42bd_802c_78df54521883",
+	"file_version": 6,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:item": {
+						"description": {
+							"identifier": "eggfood:butter",
+							"category": "nature"
+						},
+						"components": {
+							"minecraft:max_stack_size": 64,
+							"minecraft:icon": {
+								"texture": "butter"
+							},
+							"minecraft:display_name": {
+								"value": "Butter"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.nature"
+							}
+						}
+					}
+				},
+				"data": "1.17.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:item": {
+						"description": {
+							"identifier": "eggfood:butter",
+							"category": "nature"
+						},
+						"components": {
+							"minecraft:max_stack_size": 64,
+							"minecraft:icon": {
+								"texture": "butter"
+							},
+							"minecraft:display_name": {
+								"value": "Butter"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.nature"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:butter",
+								"category": "nature"
+							},
+							"components": {
+								"minecraft:max_stack_size": 64,
+								"minecraft:icon": {
+									"texture": "butter"
+								},
+								"minecraft:display_name": {
+									"value": "Butter"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.nature"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "eggfood:butter",
+							"category": "nature"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:butter",
+								"category": "nature"
+							},
+							"components": {
+								"minecraft:max_stack_size": 64,
+								"minecraft:icon": {
+									"texture": "butter"
+								},
+								"minecraft:display_name": {
+									"value": "Butter"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.nature"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "64",
+								"key": "minecraft:max_stack_size"
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 64,
+									"minecraft:icon": {
+										"texture": "butter"
+									},
+									"minecraft:display_name": {
+										"value": "Butter"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.nature"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "butter"
+								}
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 64,
+									"minecraft:icon": {
+										"texture": "butter"
+									},
+									"minecraft:display_name": {
+										"value": "Butter"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.nature"
+									}
+								},
+								"key": "minecraft:display_name",
+								"is_minified": true,
+								"children": {
+									"value": "Butter"
+								}
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 64,
+									"minecraft:icon": {
+										"texture": "butter"
+									},
+									"minecraft:display_name": {
+										"value": "Butter"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.nature"
+									}
+								},
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "itemGroup.name.nature"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

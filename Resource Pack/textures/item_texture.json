@@ -1,0 +1,77 @@
+//bridge-file-version: #12
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"mixing_bowl": {
+			"textures": [
+				"textures/items/mixing_bowl"
+			]
+		},
+		"toast": {
+			"textures": [
+				"textures/items/toast"
+			]
+		},
+		"skillet": {
+			"textures": [
+				"textures/items/skillet"
+			]
+		},
+		"butter": {
+			"textures": [
+				"textures/items/butter"
+			]
+		},
+		"saucepan": {
+			"textures": [
+				"textures/items/saucepan"
+			]
+		},
+		"salt": {
+			"textures": [
+				"textures/items/salt"
+			]
+		},
+		"heavy_cream": {
+			"textures": [
+				"textures/items/heavy_cream"
+			]
+		},
+		"fried_egg": {
+			"textures": [
+				"textures/items/fried_egg"
+			]
+		},
+		"scramble_egg": {
+			"textures": [
+				"textures/items/scrabbled_egg"
+			]
+		},
+		"plate": {
+			"textures": [
+				"textures/items/plate"
+			]
+		},
+		"omelette_egg": {
+			"textures": [
+				"textures/items/omelette_egg"
+			]
+		},
+		"raw_egg_in_a_bowl": {
+			"textures": [
+				"textures/items/raw_egg_in_a_bowl"
+			]
+		},
+		"shirred_egg": {
+			"textures": [
+				"textures/items/shirred_egg"
+			]
+		},
+		"bacon_and_egg": {
+			"textures": [
+				"textures/items/bacon_and_egg"
+			]
+		}
+	}
+}

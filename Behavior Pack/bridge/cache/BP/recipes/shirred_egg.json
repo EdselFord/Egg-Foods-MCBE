@@ -1,0 +1,556 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Egg Foods\\recipes\\shirred_egg.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "e4d74d76_ef8d_4ba5_9ef1_3840e5b97fc0",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.17.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "eggfood:shirred_egg"
+						},
+						"tags": [
+							"cooking_table"
+						],
+						"pattern": [
+							"XYZ",
+							"WAB"
+						],
+						"key": {
+							"X": {
+								"item": "eggfood:saucepan"
+							},
+							"Y": {
+								"item": "minecraft:egg"
+							},
+							"Z": {
+								"item": "eggfood:butter"
+							},
+							"W": {
+								"item": "eggfood:salt"
+							},
+							"A": {
+								"item": "eggfood:heavy_cream"
+							},
+							"B": {
+								"item": "minecraft:bowl"
+							}
+						},
+						"result": [
+							{
+								"item": "eggfood:shirred_egg",
+								"count": 1
+							},
+							{
+								"item": "eggfood:saucepan",
+								"count": 1
+							},
+							{
+								"item": "eggfood:mixing_bowl",
+								"count": 1
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:shirred_egg"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"XYZ",
+								"WAB"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:saucepan"
+								},
+								"Y": {
+									"item": "minecraft:egg"
+								},
+								"Z": {
+									"item": "eggfood:butter"
+								},
+								"W": {
+									"item": "eggfood:salt"
+								},
+								"A": {
+									"item": "eggfood:heavy_cream"
+								},
+								"B": {
+									"item": "minecraft:bowl"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:shirred_egg",
+									"count": 1
+								},
+								{
+									"item": "eggfood:saucepan",
+									"count": 1
+								},
+								{
+									"item": "eggfood:mixing_bowl",
+									"count": 1
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "eggfood:shirred_egg"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:shirred_egg"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"XYZ",
+								"WAB"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:saucepan"
+								},
+								"Y": {
+									"item": "minecraft:egg"
+								},
+								"Z": {
+									"item": "eggfood:butter"
+								},
+								"W": {
+									"item": "eggfood:salt"
+								},
+								"A": {
+									"item": "eggfood:heavy_cream"
+								},
+								"B": {
+									"item": "minecraft:bowl"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:shirred_egg",
+									"count": 1
+								},
+								{
+									"item": "eggfood:saucepan",
+									"count": 1
+								},
+								{
+									"item": "eggfood:mixing_bowl",
+									"count": 1
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"cooking_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:shirred_egg"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"XYZ",
+								"WAB"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:saucepan"
+								},
+								"Y": {
+									"item": "minecraft:egg"
+								},
+								"Z": {
+									"item": "eggfood:butter"
+								},
+								"W": {
+									"item": "eggfood:salt"
+								},
+								"A": {
+									"item": "eggfood:heavy_cream"
+								},
+								"B": {
+									"item": "minecraft:bowl"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:shirred_egg",
+									"count": 1
+								},
+								{
+									"item": "eggfood:saucepan",
+									"count": 1
+								},
+								{
+									"item": "eggfood:mixing_bowl",
+									"count": 1
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"XYZ",
+							"WAB"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:shirred_egg"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"XYZ",
+								"WAB"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:saucepan"
+								},
+								"Y": {
+									"item": "minecraft:egg"
+								},
+								"Z": {
+									"item": "eggfood:butter"
+								},
+								"W": {
+									"item": "eggfood:salt"
+								},
+								"A": {
+									"item": "eggfood:heavy_cream"
+								},
+								"B": {
+									"item": "minecraft:bowl"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:shirred_egg",
+									"count": 1
+								},
+								{
+									"item": "eggfood:saucepan",
+									"count": 1
+								},
+								{
+									"item": "eggfood:mixing_bowl",
+									"count": 1
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:saucepan"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "eggfood:butter"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:heavy_cream"
+									},
+									"B": {
+										"item": "minecraft:bowl"
+									}
+								},
+								"key": "X",
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:saucepan"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:saucepan"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "eggfood:butter"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:heavy_cream"
+									},
+									"B": {
+										"item": "minecraft:bowl"
+									}
+								},
+								"key": "Y",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:egg"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:saucepan"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "eggfood:butter"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:heavy_cream"
+									},
+									"B": {
+										"item": "minecraft:bowl"
+									}
+								},
+								"key": "Z",
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:butter"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:saucepan"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "eggfood:butter"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:heavy_cream"
+									},
+									"B": {
+										"item": "minecraft:bowl"
+									}
+								},
+								"key": "W",
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:salt"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:saucepan"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "eggfood:butter"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:heavy_cream"
+									},
+									"B": {
+										"item": "minecraft:bowl"
+									}
+								},
+								"key": "A",
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:heavy_cream"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:saucepan"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "eggfood:butter"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:heavy_cream"
+									},
+									"B": {
+										"item": "minecraft:bowl"
+									}
+								},
+								"key": "B",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:bowl"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:shirred_egg"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"XYZ",
+								"WAB"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:saucepan"
+								},
+								"Y": {
+									"item": "minecraft:egg"
+								},
+								"Z": {
+									"item": "eggfood:butter"
+								},
+								"W": {
+									"item": "eggfood:salt"
+								},
+								"A": {
+									"item": "eggfood:heavy_cream"
+								},
+								"B": {
+									"item": "minecraft:bowl"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:shirred_egg",
+									"count": 1
+								},
+								{
+									"item": "eggfood:saucepan",
+									"count": 1
+								},
+								{
+									"item": "eggfood:mixing_bowl",
+									"count": 1
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "eggfood:shirred_egg",
+										"count": 1
+									},
+									{
+										"item": "eggfood:saucepan",
+										"count": 1
+									},
+									{
+										"item": "eggfood:mixing_bowl",
+										"count": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:shirred_egg",
+									"count": 1
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "eggfood:shirred_egg",
+										"count": 1
+									},
+									{
+										"item": "eggfood:saucepan",
+										"count": 1
+									},
+									{
+										"item": "eggfood:mixing_bowl",
+										"count": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:saucepan",
+									"count": 1
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "eggfood:shirred_egg",
+										"count": 1
+									},
+									{
+										"item": "eggfood:saucepan",
+										"count": 1
+									},
+									{
+										"item": "eggfood:mixing_bowl",
+										"count": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:mixing_bowl",
+									"count": 1
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

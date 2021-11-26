@@ -1,0 +1,354 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Egg Foods\\recipes\\salt.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "0c820eea_3a4b_47e5_9c0b_ae0065011855",
+	"file_version": 3,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.17.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "eggfood:salt"
+						},
+						"tags": [
+							"cooking_table"
+						],
+						"pattern": [
+							"X#"
+						],
+						"key": {
+							"X": {
+								"item": "eggfood:saucepan"
+							},
+							"#": {
+								"item": "minecraft:bucket",
+								"data": 8
+							}
+						},
+						"result": [
+							{
+								"item": "eggfood:salt",
+								"count": 4
+							},
+							{
+								"item": "eggfood:saucepan",
+								"count": 1
+							},
+							{
+								"item": "minecraft:bucket",
+								"count": 1
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:salt"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"X#"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:saucepan"
+								},
+								"#": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:salt",
+									"count": 4
+								},
+								{
+									"item": "eggfood:saucepan",
+									"count": 1
+								},
+								{
+									"item": "minecraft:bucket",
+									"count": 1
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "eggfood:salt"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:salt"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"X#"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:saucepan"
+								},
+								"#": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:salt",
+									"count": 4
+								},
+								{
+									"item": "eggfood:saucepan",
+									"count": 1
+								},
+								{
+									"item": "minecraft:bucket",
+									"count": 1
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"cooking_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:salt"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"X#"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:saucepan"
+								},
+								"#": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:salt",
+									"count": 4
+								},
+								{
+									"item": "eggfood:saucepan",
+									"count": 1
+								},
+								{
+									"item": "minecraft:bucket",
+									"count": 1
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"X#"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:salt"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"X#"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:saucepan"
+								},
+								"#": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:salt",
+									"count": 4
+								},
+								{
+									"item": "eggfood:saucepan",
+									"count": 1
+								},
+								{
+									"item": "minecraft:bucket",
+									"count": 1
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:saucepan"
+									},
+									"#": {
+										"item": "minecraft:bucket",
+										"data": 8
+									}
+								},
+								"key": "X",
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:saucepan"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:saucepan"
+									},
+									"#": {
+										"item": "minecraft:bucket",
+										"data": 8
+									}
+								},
+								"key": "#",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:salt"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"X#"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:saucepan"
+								},
+								"#": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:salt",
+									"count": 4
+								},
+								{
+									"item": "eggfood:saucepan",
+									"count": 1
+								},
+								{
+									"item": "minecraft:bucket",
+									"count": 1
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "eggfood:salt",
+										"count": 4
+									},
+									{
+										"item": "eggfood:saucepan",
+										"count": 1
+									},
+									{
+										"item": "minecraft:bucket",
+										"count": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:salt",
+									"count": 4
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "eggfood:salt",
+										"count": 4
+									},
+									{
+										"item": "eggfood:saucepan",
+										"count": 1
+									},
+									{
+										"item": "minecraft:bucket",
+										"count": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:saucepan",
+									"count": 1
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "eggfood:salt",
+										"count": 4
+									},
+									{
+										"item": "eggfood:saucepan",
+										"count": 1
+									},
+									{
+										"item": "minecraft:bucket",
+										"count": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:bucket",
+									"count": 1
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,248 @@
+{
+	"BP/entities/player.json": {
+		"data": {}
+	},
+	"BP/animation_controllers/bridge/custom_item_behavior.json": {
+		"data": {
+			"224219d2_e99e_4fd1_b782_8d33acd6bd52": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"c11fee83_d699_4c26_b7fe_b4db3b2a9cf5": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"00ef1db7_3707_437c_84c5_db77122dd727": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"c4cd1168_0e2c_42bd_802c_78df54521883": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"d002efa9_9bac_4609_9104_f2229f027888": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"9ba51b5d_c734_4490_b01a_59dc6bd8b347": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"4308b659_4db3_46e5_850b_c290d124e6f5": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"ebb760d5_6845_4084_b1b2_9f52461bea01": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"5c20c7c3_9627_4ae3_9b4a_f0e9905c4182": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"71893c8e_7ee3_4228_8661_df0f352a5998": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"9b7c1097_0305_4043_8f94_7b63b1293425": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"bd2124ac_9d66_4982_ac97_a564b26925bd": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"469bd709_086d_4fa8_9094_f7b539a4c14f": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"e9619f54_a58d_4b12_b5ec_bd397d508e13": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			}
+		}
+	},
+	"BP/loot_tables/stove_oven.json": {
+		"data": {}
+	},
+	"RP/ RP/textures/terrain_texture.json": {
+		"data": {}
+	},
+	"BP/blocks/cooking_table.json": {
+		"data": {}
+	},
+	"BP/recipes/cooking_table.json": {
+		"data": {}
+	},
+	"RP/ RP/textures/item_texture.json": {
+		"data": {}
+	},
+	"BP/items/mixing_bowl.json": {
+		"data": {}
+	},
+	"BP/recipes/mixing_bowl.json": {
+		"data": {}
+	},
+	"BP/items/toast.json": {
+		"data": {}
+	},
+	"BP/items/skillet.json": {
+		"data": {}
+	},
+	"BP/recipes/skillet_iron.json": {
+		"data": {}
+	},
+	"BP/recipes/skillet_copper.json": {
+		"data": {}
+	},
+	"BP/items/butter.json": {
+		"data": {}
+	},
+	"BP/items/saucepan.json": {
+		"data": {}
+	},
+	"BP/recipes/saucepan_iron.json": {
+		"data": {}
+	},
+	"BP/recipes/saucepan_copper.json": {
+		"data": {}
+	},
+	"BP/items/salt.json": {
+		"data": {}
+	},
+	"BP/recipes/butter.json": {
+		"data": {}
+	},
+	"BP/recipes/salt.json": {
+		"data": {}
+	},
+	"BP/items/heavy_cream.json": {
+		"data": {}
+	},
+	"BP/items/fried_egg.json": {
+		"data": {}
+	},
+	"BP/recipes/fried_egg_cooking_table.json": {
+		"data": {}
+	},
+	"BP/recipes/fried_egg_furnace.json": {
+		"data": {}
+	},
+	"BP/items/plate.json": {
+		"data": {}
+	},
+	"BP/items/scramble_egg.json": {
+		"data": {}
+	},
+	"BP/recipes/scramble_egg.json": {
+		"data": {}
+	},
+	"BP/recipes/plate.json": {
+		"data": {}
+	},
+	"BP/items/omelette_egg.json": {
+		"data": {}
+	},
+	"BP/recipes/omelette_egg.json": {
+		"data": {}
+	},
+	"BP/items/shirred_egg.json": {
+		"data": {}
+	},
+	"BP/items/bacon_and_egg.json": {
+		"data": {}
+	},
+	"BP/recipes/bacon_and_egg.json": {
+		"data": {}
+	},
+	"BP/recipes/shirred_egg.json": {
+		"data": {}
+	},
+	"BP/recipes/heavy_cream.json": {
+		"data": {}
+	}
+}

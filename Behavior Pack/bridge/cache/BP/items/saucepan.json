@@ -1,0 +1,442 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Egg Foods\\items\\saucepan.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "d002efa9_9bac_4609_9104_f2229f027888",
+	"file_version": 3,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:item": {
+						"description": {
+							"identifier": "eggfood:saucepan",
+							"category": "equipment"
+						},
+						"components": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:can_destroy_in_creative": false,
+							"minecraft:render_offsets": {
+								"main_hand": {
+									"first_person": {
+										"scale": [
+											0.0175,
+											0.0175,
+											0.0175
+										]
+									},
+									"third_person": {
+										"scale": [
+											0.0375,
+											0.0625,
+											0.0375
+										]
+									}
+								}
+							},
+							"minecraft:icon": {
+								"texture": "saucepan"
+							},
+							"minecraft:display_name": {
+								"value": "Saucepan"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.shovel"
+							}
+						}
+					}
+				},
+				"data": "1.17.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:item": {
+						"description": {
+							"identifier": "eggfood:saucepan",
+							"category": "equipment"
+						},
+						"components": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:can_destroy_in_creative": false,
+							"minecraft:render_offsets": {
+								"main_hand": {
+									"first_person": {
+										"scale": [
+											0.0175,
+											0.0175,
+											0.0175
+										]
+									},
+									"third_person": {
+										"scale": [
+											0.0375,
+											0.0625,
+											0.0375
+										]
+									}
+								}
+							},
+							"minecraft:icon": {
+								"texture": "saucepan"
+							},
+							"minecraft:display_name": {
+								"value": "Saucepan"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.shovel"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:saucepan",
+								"category": "equipment"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:can_destroy_in_creative": false,
+								"minecraft:render_offsets": {
+									"main_hand": {
+										"first_person": {
+											"scale": [
+												0.0175,
+												0.0175,
+												0.0175
+											]
+										},
+										"third_person": {
+											"scale": [
+												0.0375,
+												0.0625,
+												0.0375
+											]
+										}
+									}
+								},
+								"minecraft:icon": {
+									"texture": "saucepan"
+								},
+								"minecraft:display_name": {
+									"value": "Saucepan"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.shovel"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "eggfood:saucepan",
+							"category": "equipment"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:saucepan",
+								"category": "equipment"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:can_destroy_in_creative": false,
+								"minecraft:render_offsets": {
+									"main_hand": {
+										"first_person": {
+											"scale": [
+												0.0175,
+												0.0175,
+												0.0175
+											]
+										},
+										"third_person": {
+											"scale": [
+												0.0375,
+												0.0625,
+												0.0375
+											]
+										}
+									}
+								},
+								"minecraft:icon": {
+									"texture": "saucepan"
+								},
+								"minecraft:display_name": {
+									"value": "Saucepan"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.shovel"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "1",
+								"key": "minecraft:max_stack_size"
+							},
+							{
+								"data": "false",
+								"key": "minecraft:can_destroy_in_creative"
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:can_destroy_in_creative": false,
+									"minecraft:render_offsets": {
+										"main_hand": {
+											"first_person": {
+												"scale": [
+													0.0175,
+													0.0175,
+													0.0175
+												]
+											},
+											"third_person": {
+												"scale": [
+													0.0375,
+													0.0625,
+													0.0375
+												]
+											}
+										}
+									},
+									"minecraft:icon": {
+										"texture": "saucepan"
+									},
+									"minecraft:display_name": {
+										"value": "Saucepan"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.shovel"
+									}
+								},
+								"key": "minecraft:render_offsets",
+								"children": [
+									{
+										"open": {
+											"main_hand": {
+												"first_person": {
+													"scale": [
+														0.0175,
+														0.0175,
+														0.0175
+													]
+												},
+												"third_person": {
+													"scale": [
+														0.0375,
+														0.0625,
+														0.0375
+													]
+												}
+											}
+										},
+										"key": "main_hand",
+										"children": [
+											{
+												"open": {
+													"first_person": {
+														"scale": [
+															0.0175,
+															0.0175,
+															0.0175
+														]
+													},
+													"third_person": {
+														"scale": [
+															0.0375,
+															0.0625,
+															0.0375
+														]
+													}
+												},
+												"key": "first_person",
+												"children": [
+													{
+														"open": {
+															"scale": [
+																0.0175,
+																0.0175,
+																0.0175
+															]
+														},
+														"key": "scale",
+														"is_minified": true,
+														"children": [
+															0.0175,
+															0.0175,
+															0.0175
+														]
+													}
+												]
+											},
+											{
+												"open": {
+													"first_person": {
+														"scale": [
+															0.0175,
+															0.0175,
+															0.0175
+														]
+													},
+													"third_person": {
+														"scale": [
+															0.0375,
+															0.0625,
+															0.0375
+														]
+													}
+												},
+												"key": "third_person",
+												"children": [
+													{
+														"open": {
+															"scale": [
+																0.0375,
+																0.0625,
+																0.0375
+															]
+														},
+														"key": "scale",
+														"is_minified": true,
+														"children": [
+															0.0375,
+															0.0625,
+															0.0375
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:can_destroy_in_creative": false,
+									"minecraft:render_offsets": {
+										"main_hand": {
+											"first_person": {
+												"scale": [
+													0.0175,
+													0.0175,
+													0.0175
+												]
+											},
+											"third_person": {
+												"scale": [
+													0.0375,
+													0.0625,
+													0.0375
+												]
+											}
+										}
+									},
+									"minecraft:icon": {
+										"texture": "saucepan"
+									},
+									"minecraft:display_name": {
+										"value": "Saucepan"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.shovel"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "saucepan"
+								}
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:can_destroy_in_creative": false,
+									"minecraft:render_offsets": {
+										"main_hand": {
+											"first_person": {
+												"scale": [
+													0.0175,
+													0.0175,
+													0.0175
+												]
+											},
+											"third_person": {
+												"scale": [
+													0.0375,
+													0.0625,
+													0.0375
+												]
+											}
+										}
+									},
+									"minecraft:icon": {
+										"texture": "saucepan"
+									},
+									"minecraft:display_name": {
+										"value": "Saucepan"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.shovel"
+									}
+								},
+								"key": "minecraft:display_name",
+								"is_minified": true,
+								"children": {
+									"value": "Saucepan"
+								}
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:can_destroy_in_creative": false,
+									"minecraft:render_offsets": {
+										"main_hand": {
+											"first_person": {
+												"scale": [
+													0.0175,
+													0.0175,
+													0.0175
+												]
+											},
+											"third_person": {
+												"scale": [
+													0.0375,
+													0.0625,
+													0.0375
+												]
+											}
+										}
+									},
+									"minecraft:icon": {
+										"texture": "saucepan"
+									},
+									"minecraft:display_name": {
+										"value": "Saucepan"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.shovel"
+									}
+								},
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "itemGroup.name.shovel"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

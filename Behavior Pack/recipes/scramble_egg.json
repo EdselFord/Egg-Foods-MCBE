@@ -1,0 +1,40 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eggfood:scramble_egg"
+		},
+		"tags": [
+			"cooking_table"
+		],
+		"pattern": [
+			"XYZ",
+			"W"
+		],
+		"key": {
+			"X": {
+				"item": "eggfood:skillet"
+			},
+			"Y": {
+				"item": "minecraft:egg"
+			},
+			"Z": {
+				"item": "eggfood:salt"
+			},
+			"W": {
+				"item": "eggfood:plate"
+			}
+		},
+		"result": [
+			{
+				"item": "eggfood:scramble_egg",
+				"count": 1
+			},
+			{
+				"item": "eggfood:skillet",
+				"count": 1
+			}
+		]
+	}
+}

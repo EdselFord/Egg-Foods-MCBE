@@ -1,0 +1,443 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Egg Foods\\recipes\\bacon_and_egg.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "e33ac17b_e9d5_4dda_9250_f60ba8953ae9",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.17.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "eggfood:bacon_and_egg"
+						},
+						"tags": [
+							"cooking_table"
+						],
+						"pattern": [
+							"XYZ",
+							"WA"
+						],
+						"key": {
+							"X": {
+								"item": "eggfood:skillet"
+							},
+							"Y": {
+								"item": "minecraft:egg"
+							},
+							"Z": {
+								"item": "minecraft:porkchop"
+							},
+							"W": {
+								"item": "eggfood:salt"
+							},
+							"A": {
+								"item": "eggfood:plate"
+							}
+						},
+						"result": [
+							{
+								"item": "eggfood:bacon_and_egg",
+								"count": 1
+							},
+							{
+								"item": "eggfood:skillet",
+								"count": 1
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:bacon_and_egg"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"XYZ",
+								"WA"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:skillet"
+								},
+								"Y": {
+									"item": "minecraft:egg"
+								},
+								"Z": {
+									"item": "minecraft:porkchop"
+								},
+								"W": {
+									"item": "eggfood:salt"
+								},
+								"A": {
+									"item": "eggfood:plate"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:bacon_and_egg",
+									"count": 1
+								},
+								{
+									"item": "eggfood:skillet",
+									"count": 1
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "eggfood:bacon_and_egg"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:bacon_and_egg"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"XYZ",
+								"WA"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:skillet"
+								},
+								"Y": {
+									"item": "minecraft:egg"
+								},
+								"Z": {
+									"item": "minecraft:porkchop"
+								},
+								"W": {
+									"item": "eggfood:salt"
+								},
+								"A": {
+									"item": "eggfood:plate"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:bacon_and_egg",
+									"count": 1
+								},
+								{
+									"item": "eggfood:skillet",
+									"count": 1
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"cooking_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:bacon_and_egg"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"XYZ",
+								"WA"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:skillet"
+								},
+								"Y": {
+									"item": "minecraft:egg"
+								},
+								"Z": {
+									"item": "minecraft:porkchop"
+								},
+								"W": {
+									"item": "eggfood:salt"
+								},
+								"A": {
+									"item": "eggfood:plate"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:bacon_and_egg",
+									"count": 1
+								},
+								{
+									"item": "eggfood:skillet",
+									"count": 1
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"XYZ",
+							"WA"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:bacon_and_egg"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"XYZ",
+								"WA"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:skillet"
+								},
+								"Y": {
+									"item": "minecraft:egg"
+								},
+								"Z": {
+									"item": "minecraft:porkchop"
+								},
+								"W": {
+									"item": "eggfood:salt"
+								},
+								"A": {
+									"item": "eggfood:plate"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:bacon_and_egg",
+									"count": 1
+								},
+								{
+									"item": "eggfood:skillet",
+									"count": 1
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:skillet"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "minecraft:porkchop"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:plate"
+									}
+								},
+								"key": "X",
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:skillet"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:skillet"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "minecraft:porkchop"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:plate"
+									}
+								},
+								"key": "Y",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:egg"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:skillet"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "minecraft:porkchop"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:plate"
+									}
+								},
+								"key": "Z",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:porkchop"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:skillet"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "minecraft:porkchop"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:plate"
+									}
+								},
+								"key": "W",
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:salt"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:skillet"
+									},
+									"Y": {
+										"item": "minecraft:egg"
+									},
+									"Z": {
+										"item": "minecraft:porkchop"
+									},
+									"W": {
+										"item": "eggfood:salt"
+									},
+									"A": {
+										"item": "eggfood:plate"
+									}
+								},
+								"key": "A",
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:plate"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:bacon_and_egg"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"XYZ",
+								"WA"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:skillet"
+								},
+								"Y": {
+									"item": "minecraft:egg"
+								},
+								"Z": {
+									"item": "minecraft:porkchop"
+								},
+								"W": {
+									"item": "eggfood:salt"
+								},
+								"A": {
+									"item": "eggfood:plate"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:bacon_and_egg",
+									"count": 1
+								},
+								{
+									"item": "eggfood:skillet",
+									"count": 1
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "eggfood:bacon_and_egg",
+										"count": 1
+									},
+									{
+										"item": "eggfood:skillet",
+										"count": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:bacon_and_egg",
+									"count": 1
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "eggfood:bacon_and_egg",
+										"count": 1
+									},
+									{
+										"item": "eggfood:skillet",
+										"count": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:skillet",
+									"count": 1
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

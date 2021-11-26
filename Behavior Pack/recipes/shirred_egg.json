@@ -1,0 +1,50 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eggfood:shirred_egg"
+		},
+		"tags": [
+			"cooking_table"
+		],
+		"pattern": [
+			"XYZ",
+			"WAB"
+		],
+		"key": {
+			"X": {
+				"item": "eggfood:saucepan"
+			},
+			"Y": {
+				"item": "minecraft:egg"
+			},
+			"Z": {
+				"item": "eggfood:butter"
+			},
+			"W": {
+				"item": "eggfood:salt"
+			},
+			"A": {
+				"item": "eggfood:heavy_cream"
+			},
+			"B": {
+				"item": "minecraft:bowl"
+			}
+		},
+		"result": [
+			{
+				"item": "eggfood:shirred_egg",
+				"count": 1
+			},
+			{
+				"item": "eggfood:saucepan",
+				"count": 1
+			},
+			{
+				"item": "eggfood:mixing_bowl",
+				"count": 1
+			}
+		]
+	}
+}

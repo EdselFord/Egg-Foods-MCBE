@@ -1,0 +1,29 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.17.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eggfood:toast",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:use_duration": 1.6,
+			"minecraft:food": {
+				"nutrition": 7,
+				"saturation_modifier": "good",
+				"can_always_eat": false
+			},
+			"minecraft:icon": {
+				"texture": "toast"
+			},
+			"minecraft:use_animation": "eat",
+			"minecraft:display_name": {
+				"value": "Toast"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.cookedFood"
+			}
+		},
+		"events": {}
+	}
+}

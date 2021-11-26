@@ -1,0 +1,245 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Egg Foods\\items\\toast.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "c11fee83_d699_4c26_b7fe_b4db3b2a9cf5",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:item": {
+						"description": {
+							"identifier": "eggfood:toast",
+							"category": "equipment"
+						},
+						"components": {
+							"minecraft:use_duration": 1.6,
+							"minecraft:food": {
+								"nutrition": 7,
+								"saturation_modifier": "good",
+								"can_always_eat": false
+							},
+							"minecraft:icon": {
+								"texture": "toast"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:display_name": {
+								"value": "Toast"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.cookedFood"
+							}
+						}
+					}
+				},
+				"data": "1.17.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:item": {
+						"description": {
+							"identifier": "eggfood:toast",
+							"category": "equipment"
+						},
+						"components": {
+							"minecraft:use_duration": 1.6,
+							"minecraft:food": {
+								"nutrition": 7,
+								"saturation_modifier": "good",
+								"can_always_eat": false
+							},
+							"minecraft:icon": {
+								"texture": "toast"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:display_name": {
+								"value": "Toast"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.cookedFood"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:toast",
+								"category": "equipment"
+							},
+							"components": {
+								"minecraft:use_duration": 1.6,
+								"minecraft:food": {
+									"nutrition": 7,
+									"saturation_modifier": "good",
+									"can_always_eat": false
+								},
+								"minecraft:icon": {
+									"texture": "toast"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:display_name": {
+									"value": "Toast"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.cookedFood"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "eggfood:toast",
+							"category": "equipment"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:toast",
+								"category": "equipment"
+							},
+							"components": {
+								"minecraft:use_duration": 1.6,
+								"minecraft:food": {
+									"nutrition": 7,
+									"saturation_modifier": "good",
+									"can_always_eat": false
+								},
+								"minecraft:icon": {
+									"texture": "toast"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:display_name": {
+									"value": "Toast"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.cookedFood"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "1.6",
+								"key": "minecraft:use_duration"
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 1.6,
+									"minecraft:food": {
+										"nutrition": 7,
+										"saturation_modifier": "good",
+										"can_always_eat": false
+									},
+									"minecraft:icon": {
+										"texture": "toast"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:display_name": {
+										"value": "Toast"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									}
+								},
+								"key": "minecraft:food",
+								"is_minified": true,
+								"children": {
+									"nutrition": 7,
+									"saturation_modifier": "good",
+									"can_always_eat": false
+								}
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 1.6,
+									"minecraft:food": {
+										"nutrition": 7,
+										"saturation_modifier": "good",
+										"can_always_eat": false
+									},
+									"minecraft:icon": {
+										"texture": "toast"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:display_name": {
+										"value": "Toast"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "toast"
+								}
+							},
+							{
+								"data": "eat",
+								"key": "minecraft:use_animation"
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 1.6,
+									"minecraft:food": {
+										"nutrition": 7,
+										"saturation_modifier": "good",
+										"can_always_eat": false
+									},
+									"minecraft:icon": {
+										"texture": "toast"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:display_name": {
+										"value": "Toast"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									}
+								},
+								"key": "minecraft:display_name",
+								"is_minified": true,
+								"children": {
+									"value": "Toast"
+								}
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 1.6,
+									"minecraft:food": {
+										"nutrition": 7,
+										"saturation_modifier": "good",
+										"can_always_eat": false
+									},
+									"minecraft:icon": {
+										"texture": "toast"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:display_name": {
+										"value": "Toast"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									}
+								},
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "itemGroup.name.cookedFood"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

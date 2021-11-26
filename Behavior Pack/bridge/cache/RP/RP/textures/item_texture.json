@@ -1,0 +1,402 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Egg Foods RP\\textures\\item_texture.json",
+	"file_type": "item_texture",
+	"format_version": 1,
+	"file_uuid": "35e573b7_c3f7_4b18_8692_121d914560dd",
+	"file_version": 12,
+	"cache_content": {
+		"children": [
+			{
+				"data": "bridgeRP",
+				"key": "resource_pack_name"
+			},
+			{
+				"data": "atlas.items",
+				"key": "texture_name"
+			},
+			{
+				"open": {
+					"resource_pack_name": "bridgeRP",
+					"texture_name": "atlas.items",
+					"texture_data": {
+						"mixing_bowl": {
+							"textures": [
+								"textures/items/mixing_bowl"
+							]
+						},
+						"toast": {
+							"textures": [
+								"textures/items/toast"
+							]
+						},
+						"skillet": {
+							"textures": [
+								"textures/items/skillet"
+							]
+						},
+						"butter": {
+							"textures": [
+								"textures/items/butter"
+							]
+						},
+						"saucepan": {
+							"textures": [
+								"textures/items/saucepan"
+							]
+						},
+						"salt": {
+							"textures": [
+								"textures/items/salt"
+							]
+						},
+						"heavy_cream": {
+							"textures": [
+								"textures/items/heavy_cream"
+							]
+						},
+						"fried_egg": {
+							"textures": [
+								"textures/items/fried_egg"
+							]
+						},
+						"scramble_egg": {
+							"textures": [
+								"textures/items/scrabbled_egg"
+							]
+						},
+						"plate": {
+							"textures": [
+								"textures/items/plate"
+							]
+						},
+						"omelette_egg": {
+							"textures": [
+								"textures/items/omelette_egg"
+							]
+						},
+						"raw_egg_in_a_bowl": {
+							"textures": [
+								"textures/items/raw_egg_in_a_bowl"
+							]
+						},
+						"shirred_egg": {
+							"textures": [
+								"textures/items/shirred_egg"
+							]
+						},
+						"bacon_and_egg": {
+							"textures": [
+								"textures/items/bacon_and_egg"
+							]
+						}
+					}
+				},
+				"key": "texture_data",
+				"children": [
+					{
+						"key": "mixing_bowl",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/mixing_bowl"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/mixing_bowl"
+								]
+							}
+						]
+					},
+					{
+						"key": "toast",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/toast"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/toast"
+								]
+							}
+						]
+					},
+					{
+						"key": "skillet",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/skillet"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/skillet"
+								]
+							}
+						]
+					},
+					{
+						"key": "butter",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/butter"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/butter"
+								]
+							}
+						]
+					},
+					{
+						"key": "saucepan",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/saucepan"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/saucepan"
+								]
+							}
+						]
+					},
+					{
+						"key": "salt",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/salt"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/salt"
+								]
+							}
+						]
+					},
+					{
+						"key": "heavy_cream",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/heavy_cream"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/heavy_cream"
+								]
+							}
+						]
+					},
+					{
+						"key": "fried_egg",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/fried_egg"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/fried_egg"
+								]
+							}
+						]
+					},
+					{
+						"key": "scramble_egg",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/scrabbled_egg"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/scrabbled_egg"
+								]
+							}
+						]
+					},
+					{
+						"key": "plate",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/items/plate"
+							]
+						}
+					},
+					{
+						"key": "omelette_egg",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/omelette_egg"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/omelette_egg"
+								]
+							}
+						]
+					},
+					{
+						"key": "raw_egg_in_a_bowl",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/raw_egg_in_a_bowl"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/raw_egg_in_a_bowl"
+								]
+							}
+						]
+					},
+					{
+						"key": "shirred_egg",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/shirred_egg"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/shirred_egg"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"mixing_bowl": {
+								"textures": [
+									"textures/items/mixing_bowl"
+								]
+							},
+							"toast": {
+								"textures": [
+									"textures/items/toast"
+								]
+							},
+							"skillet": {
+								"textures": [
+									"textures/items/skillet"
+								]
+							},
+							"butter": {
+								"textures": [
+									"textures/items/butter"
+								]
+							},
+							"saucepan": {
+								"textures": [
+									"textures/items/saucepan"
+								]
+							},
+							"salt": {
+								"textures": [
+									"textures/items/salt"
+								]
+							},
+							"heavy_cream": {
+								"textures": [
+									"textures/items/heavy_cream"
+								]
+							},
+							"fried_egg": {
+								"textures": [
+									"textures/items/fried_egg"
+								]
+							},
+							"scramble_egg": {
+								"textures": [
+									"textures/items/scrabbled_egg"
+								]
+							},
+							"plate": {
+								"textures": [
+									"textures/items/plate"
+								]
+							},
+							"omelette_egg": {
+								"textures": [
+									"textures/items/omelette_egg"
+								]
+							},
+							"raw_egg_in_a_bowl": {
+								"textures": [
+									"textures/items/raw_egg_in_a_bowl"
+								]
+							},
+							"shirred_egg": {
+								"textures": [
+									"textures/items/shirred_egg"
+								]
+							},
+							"bacon_and_egg": {
+								"textures": [
+									"textures/items/bacon_and_egg"
+								]
+							}
+						},
+						"key": "bacon_and_egg",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/bacon_and_egg"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/bacon_and_egg"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

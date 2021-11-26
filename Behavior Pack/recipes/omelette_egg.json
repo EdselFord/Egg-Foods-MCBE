@@ -1,0 +1,43 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eggfood:omelette_egg"
+		},
+		"tags": [
+			"cooking_table"
+		],
+		"pattern": [
+			"XYZ",
+			"WA"
+		],
+		"key": {
+			"X": {
+				"item": "eggfood:skillet"
+			},
+			"Y": {
+				"item": "minecraft:egg"
+			},
+			"Z": {
+				"item": "eggfood:butter"
+			},
+			"W": {
+				"item": "eggfood:salt"
+			},
+			"A": {
+				"item": "eggfood:plate"
+			}
+		},
+		"result": [
+			{
+				"item": "eggfood:omelette_egg",
+				"count": 1
+			},
+			{
+				"item": "eggfood:skillet",
+				"count": 1
+			}
+		]
+	}
+}

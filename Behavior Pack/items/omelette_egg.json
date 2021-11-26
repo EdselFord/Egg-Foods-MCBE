@@ -1,0 +1,49 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.17.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eggfood:omelette_egg",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:use_duration": 2,
+			"minecraft:max_stack_size": 1,
+			"minecraft:food": {
+				"nutrition": 7,
+				"can_always_eat": false,
+				"saturation_modifier": "good",
+				"using_converts_to": "eggfood:plate"
+			},
+			"minecraft:use_animation": "eat",
+			"minecraft:render_offsets": {
+				"main_hand": {
+					"first_person": {
+						"scale": [
+							0.0175,
+							0.0175,
+							0.0175
+						]
+					},
+					"third_person": {
+						"scale": [
+							0.0375,
+							0.0625,
+							0.0375
+						]
+					}
+				}
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.cookedFood"
+			},
+			"minecraft:icon": {
+				"texture": "omelette_egg"
+			},
+			"minecraft:display_name": {
+				"value": "Omelette Egg"
+			}
+		},
+		"events": {}
+	}
+}

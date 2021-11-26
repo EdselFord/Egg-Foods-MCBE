@@ -1,0 +1,38 @@
+//bridge-file-version: #3
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eggfood:salt"
+		},
+		"tags": [
+			"cooking_table"
+		],
+		"pattern": [
+			"X#"
+		],
+		"key": {
+			"X": {
+				"item": "eggfood:saucepan"
+			},
+			"#": {
+				"item": "minecraft:bucket",
+				"data": 8
+			}
+		},
+		"result": [
+			{
+				"item": "eggfood:salt",
+				"count": 4
+			},
+			{
+				"item": "eggfood:saucepan",
+				"count": 1
+			},
+			{
+				"item": "minecraft:bucket",
+				"count": 1
+			}
+		]
+	}
+}
