@@ -1,0 +1,30 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.17.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eggfood:slice_of_toast",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:use_duration": 0.7,
+			"minecraft:max_stack_size": 64,
+			"minecraft:food": {
+				"nutrition": 3,
+				"can_always_eat": false,
+				"saturation_modifier": "normal"
+			},
+			"minecraft:icon": {
+				"texture": "slice_of_toast"
+			},
+			"minecraft:display_name": {
+				"value": "Slice of Toast"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.cookedFood"
+			},
+			"minecraft:use_animation": "eat"
+		},
+		"events": {}
+	}
+}

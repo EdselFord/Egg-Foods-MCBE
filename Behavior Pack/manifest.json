@@ -1,9 +1,10 @@
+//bridge-file-version: #1
 {
 	"format_version": 2,
 	"header": {
 		"name": "pack.name",
 		"description": "pack.description",
-		"uuid": "4eee2763-84c9-4938-a738-b8c6ebbe58fe",
+		"uuid": "9dc634ba-e261-4a50-812e-d4cce5ecfc45",
 		"version": [
 			1,
 			0,
@@ -18,7 +19,7 @@
 	"modules": [
 		{
 			"type": "data",
-			"uuid": "1d61c4ad-2957-4e0c-97dd-b6914e0e80a1",
+			"uuid": "ae498c72-2f2d-4e9e-8eb7-711d28c85495",
 			"version": [
 				1,
 				0,
@@ -33,7 +34,7 @@
 				0,
 				0
 			],
-			"uuid": "2cf73c33-e325-44fc-aff4-2d6a5bd30411"
+			"uuid": "16b18443-8be9-4bfa-afea-77ba48362c05"
 		}
 	]
 }

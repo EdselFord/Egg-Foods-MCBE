@@ -1,0 +1,29 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eggfood:kitchen_knife"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"XY"
+		],
+		"key": {
+			"X": {
+				"item": "minecraft:stick"
+			},
+			"Y": {
+				"item": "minecraft:iron_ingot"
+			}
+		},
+		"result": [
+			{
+				"item": "eggfood:kitchen_knife",
+				"count": 1
+			}
+		]
+	}
+}

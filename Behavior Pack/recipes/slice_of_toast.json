@@ -1,0 +1,33 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eggfood:slice_of_toast"
+		},
+		"tags": [
+			"cooking_table"
+		],
+		"pattern": [
+			"XY"
+		],
+		"key": {
+			"X": {
+				"item": "eggfood:kitchen_knife"
+			},
+			"Y": {
+				"item": "eggfood:toast"
+			}
+		},
+		"result": [
+			{
+				"item": "eggfood:slice_of_toast",
+				"count": 1
+			},
+			{
+				"item": "eggfood:kitchen_knife",
+				"count": 1
+			}
+		]
+	}
+}

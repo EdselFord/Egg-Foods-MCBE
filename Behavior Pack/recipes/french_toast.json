@@ -1,0 +1,51 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eggfood:french_toast"
+		},
+		"tags": [
+			"cooking_table"
+		],
+		"pattern": [
+			"XYZ",
+			"WAB"
+		],
+		"key": {
+			"X": {
+				"item": "eggfood:skillet"
+			},
+			"Y": {
+				"item": "minecraft:egg"
+			},
+			"Z": {
+				"item": "eggfood:salt"
+			},
+			"W": {
+				"item": "minecraft:bucket",
+				"data": 1
+			},
+			"A": {
+				"item": "eggfood:slice_of_toast"
+			},
+			"B": {
+				"item": "eggfood:plate"
+			}
+		},
+		"result": [
+			{
+				"item": "eggfood:french_toast",
+				"count": 1
+			},
+			{
+				"item": "eggfood:skillet",
+				"count": 1
+			},
+			{
+				"item": "minecraft:bucket",
+				"count": 1
+			}
+		]
+	}
+}

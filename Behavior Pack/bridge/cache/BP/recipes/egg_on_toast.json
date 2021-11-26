@@ -1,0 +1,246 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Egg Foods\\recipes\\egg_on_toast.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "c29ad409_cbdf_4cde_b83e_259250aafced",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.17.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "eggfood:egg_on_toast"
+						},
+						"tags": [
+							"cooking_table"
+						],
+						"pattern": [
+							"X",
+							"Y"
+						],
+						"key": {
+							"X": {
+								"item": "eggfood:fried_egg"
+							},
+							"Y": {
+								"item": "eggfood:slice_of_toast"
+							}
+						},
+						"result": [
+							{
+								"item": "eggfood:egg_on_toast"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:egg_on_toast"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"X",
+								"Y"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:fried_egg"
+								},
+								"Y": {
+									"item": "eggfood:slice_of_toast"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:egg_on_toast"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "eggfood:egg_on_toast"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:egg_on_toast"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"X",
+								"Y"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:fried_egg"
+								},
+								"Y": {
+									"item": "eggfood:slice_of_toast"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:egg_on_toast"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"cooking_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:egg_on_toast"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"X",
+								"Y"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:fried_egg"
+								},
+								"Y": {
+									"item": "eggfood:slice_of_toast"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:egg_on_toast"
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"X",
+							"Y"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:egg_on_toast"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"X",
+								"Y"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:fried_egg"
+								},
+								"Y": {
+									"item": "eggfood:slice_of_toast"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:egg_on_toast"
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:fried_egg"
+									},
+									"Y": {
+										"item": "eggfood:slice_of_toast"
+									}
+								},
+								"key": "X",
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:fried_egg"
+								}
+							},
+							{
+								"open": {
+									"X": {
+										"item": "eggfood:fried_egg"
+									},
+									"Y": {
+										"item": "eggfood:slice_of_toast"
+									}
+								},
+								"key": "Y",
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:slice_of_toast"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:egg_on_toast"
+							},
+							"tags": [
+								"cooking_table"
+							],
+							"pattern": [
+								"X",
+								"Y"
+							],
+							"key": {
+								"X": {
+									"item": "eggfood:fried_egg"
+								},
+								"Y": {
+									"item": "eggfood:slice_of_toast"
+								}
+							},
+							"result": [
+								{
+									"item": "eggfood:egg_on_toast"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "eggfood:egg_on_toast"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "eggfood:egg_on_toast"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

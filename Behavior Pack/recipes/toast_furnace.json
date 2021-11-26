@@ -1,0 +1,17 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "eggfood:toast_furnace"
+		},
+		"tags": [
+			"furnace",
+			"smoker",
+			"campfire",
+			"soul_campfire"
+		],
+		"input": "minecraft:bread",
+		"output": "eggfood:toast"
+	}
+}

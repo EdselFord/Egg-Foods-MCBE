@@ -143,6 +143,46 @@
 						}
 					}
 				}
+			},
+			"94de950b_9dc3_44bd_86aa_01d11b481867": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"50ad2e83_5c78_4248_9b5c_ecfa1bf0a740": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"422c4596_8936_4b41_81e9_a377057f34ae": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"bd12554c_dde1_449a_b8d1_80b6ba62073a": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
 			}
 		}
 	},
@@ -243,6 +283,42 @@
 		"data": {}
 	},
 	"BP/recipes/heavy_cream.json": {
+		"data": {}
+	},
+	"BP/items/slice_of_toast.json": {
+		"data": {}
+	},
+	"BP/items/egg_on_toast.json": {
+		"data": {}
+	},
+	"BP/items/kitchen_knife.json": {
+		"data": {}
+	},
+	"BP/recipes/toast_furnace.json": {
+		"data": {}
+	},
+	"BP/recipes/toast_cooking.json": {
+		"data": {}
+	},
+	"BP/recipes/kitchen_knife.json": {
+		"data": {}
+	},
+	"BP/recipes/slice_of_toast.json": {
+		"data": {}
+	},
+	"BP/recipes/egg_on_toast.json": {
+		"data": {}
+	},
+	"BP/items/french_toast.json": {
+		"data": {}
+	},
+	"BP/recipes/french_toast.json": {
+		"data": {}
+	},
+	"RP/ RP/manifest.json": {
+		"data": {}
+	},
+	"BP/manifest.json": {
 		"data": {}
 	}
 }

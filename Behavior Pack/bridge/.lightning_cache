@@ -97,6 +97,30 @@
 				"eggfood:bacon_and_egg"
 			],
 			"custom_commands": []
+		},
+		"BP/items/slice_of_toast.json": {
+			"identifiers": [
+				"eggfood:slice_of_toast"
+			],
+			"custom_commands": []
+		},
+		"BP/items/egg_on_toast.json": {
+			"identifiers": [
+				"eggfood:egg_on_toast"
+			],
+			"custom_commands": []
+		},
+		"BP/items/kitchen_knife.json": {
+			"identifiers": [
+				"eggfood:kitchen_knife"
+			],
+			"custom_commands": []
+		},
+		"BP/items/french_toast.json": {
+			"identifiers": [
+				"eggfood:french_toast"
+			],
+			"custom_commands": []
 		}
 	},
 	"block": {
@@ -194,6 +218,39 @@
 			]
 		},
 		"BP/recipes/heavy_cream.json": {
+			"tags": [
+				"cooking_table"
+			]
+		},
+		"BP/recipes/toast_furnace.json": {
+			"tags": [
+				"furnace",
+				"smoker",
+				"campfire",
+				"soul_campfire"
+			]
+		},
+		"BP/recipes/toast_cooking.json": {
+			"tags": [
+				"cooking_table"
+			]
+		},
+		"BP/recipes/kitchen_knife.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/slice_of_toast.json": {
+			"tags": [
+				"cooking_table"
+			]
+		},
+		"BP/recipes/egg_on_toast.json": {
+			"tags": [
+				"cooking_table"
+			]
+		},
+		"BP/recipes/french_toast.json": {
 			"tags": [
 				"cooking_table"
 			]
