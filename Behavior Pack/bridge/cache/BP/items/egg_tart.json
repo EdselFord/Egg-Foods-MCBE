@@ -1,0 +1,257 @@
+{
+	"file_path": "C:\\Users\\LENOVO\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Egg Foods\\items\\egg_tart.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "47510ef2_a7f0_46eb_acb2_b5d5e228e230",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:item": {
+						"description": {
+							"identifier": "eggfood:egg_tart",
+							"category": "equipment"
+						},
+						"components": {
+							"minecraft:use_duration": 0.5,
+							"minecraft:max_stack_size": 64,
+							"minecraft:food": {
+								"nutrition": 4,
+								"can_always_eat": false,
+								"saturation_modifier": "good"
+							},
+							"minecraft:icon": {
+								"texture": "egg_tart"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:display_name": {
+								"value": "Egg Tart"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.cookedFood"
+							}
+						}
+					}
+				},
+				"data": "1.17.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.17.0",
+					"minecraft:item": {
+						"description": {
+							"identifier": "eggfood:egg_tart",
+							"category": "equipment"
+						},
+						"components": {
+							"minecraft:use_duration": 0.5,
+							"minecraft:max_stack_size": 64,
+							"minecraft:food": {
+								"nutrition": 4,
+								"can_always_eat": false,
+								"saturation_modifier": "good"
+							},
+							"minecraft:icon": {
+								"texture": "egg_tart"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:display_name": {
+								"value": "Egg Tart"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.cookedFood"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:egg_tart",
+								"category": "equipment"
+							},
+							"components": {
+								"minecraft:use_duration": 0.5,
+								"minecraft:max_stack_size": 64,
+								"minecraft:food": {
+									"nutrition": 4,
+									"can_always_eat": false,
+									"saturation_modifier": "good"
+								},
+								"minecraft:icon": {
+									"texture": "egg_tart"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:display_name": {
+									"value": "Egg Tart"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.cookedFood"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "eggfood:egg_tart",
+							"category": "equipment"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "eggfood:egg_tart",
+								"category": "equipment"
+							},
+							"components": {
+								"minecraft:use_duration": 0.5,
+								"minecraft:max_stack_size": 64,
+								"minecraft:food": {
+									"nutrition": 4,
+									"can_always_eat": false,
+									"saturation_modifier": "good"
+								},
+								"minecraft:icon": {
+									"texture": "egg_tart"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:display_name": {
+									"value": "Egg Tart"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.cookedFood"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "0.5",
+								"key": "minecraft:use_duration"
+							},
+							{
+								"data": "64",
+								"key": "minecraft:max_stack_size"
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 0.5,
+									"minecraft:max_stack_size": 64,
+									"minecraft:food": {
+										"nutrition": 4,
+										"can_always_eat": false,
+										"saturation_modifier": "good"
+									},
+									"minecraft:icon": {
+										"texture": "egg_tart"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:display_name": {
+										"value": "Egg Tart"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									}
+								},
+								"key": "minecraft:food",
+								"is_minified": true,
+								"children": {
+									"nutrition": 4,
+									"can_always_eat": false,
+									"saturation_modifier": "good"
+								}
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 0.5,
+									"minecraft:max_stack_size": 64,
+									"minecraft:food": {
+										"nutrition": 4,
+										"can_always_eat": false,
+										"saturation_modifier": "good"
+									},
+									"minecraft:icon": {
+										"texture": "egg_tart"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:display_name": {
+										"value": "Egg Tart"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "egg_tart"
+								}
+							},
+							{
+								"data": "eat",
+								"key": "minecraft:use_animation"
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 0.5,
+									"minecraft:max_stack_size": 64,
+									"minecraft:food": {
+										"nutrition": 4,
+										"can_always_eat": false,
+										"saturation_modifier": "good"
+									},
+									"minecraft:icon": {
+										"texture": "egg_tart"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:display_name": {
+										"value": "Egg Tart"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									}
+								},
+								"key": "minecraft:display_name",
+								"is_minified": true,
+								"children": {
+									"value": "Egg Tart"
+								}
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 0.5,
+									"minecraft:max_stack_size": 64,
+									"minecraft:food": {
+										"nutrition": 4,
+										"can_always_eat": false,
+										"saturation_modifier": "good"
+									},
+									"minecraft:icon": {
+										"texture": "egg_tart"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:display_name": {
+										"value": "Egg Tart"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									}
+								},
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "itemGroup.name.cookedFood"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

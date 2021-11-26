@@ -3,7 +3,7 @@
 	"file_type": "manifest_rp",
 	"format_version": 1,
 	"file_uuid": "4b36959e_768d_4250_84d6_c32e20bc76fd",
-	"file_version": 0,
+	"file_version": 1,
 	"cache_content": {
 		"children": [
 			{
@@ -16,7 +16,7 @@
 					"header": {
 						"name": "pack.name",
 						"description": "pack.description",
-						"uuid": "16b18443-8be9-4bfa-afea-77ba48362c05",
+						"uuid": "92585ffd-8f0f-4c50-864f-43b723abbf7e",
 						"version": [
 							1,
 							0,
@@ -31,7 +31,7 @@
 					"modules": [
 						{
 							"type": "resources",
-							"uuid": "32b609ae-f7af-4c75-9ab1-564a14c66389",
+							"uuid": "55b656c9-2275-46b2-bb7a-2eb8452457d5",
 							"version": [
 								1,
 								0,
@@ -45,7 +45,7 @@
 				"children": {
 					"name": "pack.name",
 					"description": "pack.description",
-					"uuid": "16b18443-8be9-4bfa-afea-77ba48362c05",
+					"uuid": "92585ffd-8f0f-4c50-864f-43b723abbf7e",
 					"version": [
 						1,
 						0,
@@ -64,7 +64,7 @@
 					"header": {
 						"name": "pack.name",
 						"description": "pack.description",
-						"uuid": "16b18443-8be9-4bfa-afea-77ba48362c05",
+						"uuid": "92585ffd-8f0f-4c50-864f-43b723abbf7e",
 						"version": [
 							1,
 							0,
@@ -79,7 +79,7 @@
 					"modules": [
 						{
 							"type": "resources",
-							"uuid": "32b609ae-f7af-4c75-9ab1-564a14c66389",
+							"uuid": "55b656c9-2275-46b2-bb7a-2eb8452457d5",
 							"version": [
 								1,
 								0,
@@ -94,7 +94,7 @@
 						"open": [
 							{
 								"type": "resources",
-								"uuid": "32b609ae-f7af-4c75-9ab1-564a14c66389",
+								"uuid": "55b656c9-2275-46b2-bb7a-2eb8452457d5",
 								"version": [
 									1,
 									0,
@@ -105,7 +105,7 @@
 						"is_minified": true,
 						"children": {
 							"type": "resources",
-							"uuid": "32b609ae-f7af-4c75-9ab1-564a14c66389",
+							"uuid": "55b656c9-2275-46b2-bb7a-2eb8452457d5",
 							"version": [
 								1,
 								0,

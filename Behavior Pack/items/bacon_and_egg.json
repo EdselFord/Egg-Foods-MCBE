@@ -1,4 +1,4 @@
-//bridge-file-version: #2
+//bridge-file-version: #5
 {
 	"format_version": "1.17.0",
 	"minecraft:item": {
@@ -10,7 +10,7 @@
 			"minecraft:use_duration": 2,
 			"minecraft:max_stack_size": 1,
 			"minecraft:food": {
-				"nutrition": 9,
+				"nutrition": 10,
 				"can_always_eat": false,
 				"saturation_modifier": "good",
 				"using_converts_to": "eggfood:plate"
@@ -24,6 +24,24 @@
 			},
 			"minecraft:creative_category": {
 				"parent": "itemGroup.name.cookedFood"
+			},
+			"minecraft:render_offsets": {
+				"main_hand": {
+					"first_person": {
+						"scale": [
+							0.0175,
+							0.0175,
+							0.0175
+						]
+					},
+					"third_person": {
+						"scale": [
+							0.0375,
+							0.0625,
+							0.0375
+						]
+					}
+				}
 			}
 		},
 		"events": {}

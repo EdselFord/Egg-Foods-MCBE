@@ -1,0 +1,33 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eggfood:wheat_flour"
+		},
+		"tags": [
+			"cooking_table"
+		],
+		"pattern": [
+			"XY"
+		],
+		"key": {
+			"X": {
+				"item": "eggfood:mixing_bowl"
+			},
+			"Y": {
+				"item": "minecraft:wheat"
+			}
+		},
+		"result": [
+			{
+				"item": "eggfood:wheat_flour",
+				"count": 1
+			},
+			{
+				"item": "eggfood:mixing_bowl",
+				"count": 1
+			}
+		]
+	}
+}

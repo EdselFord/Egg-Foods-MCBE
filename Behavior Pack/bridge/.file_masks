@@ -183,6 +183,56 @@
 						}
 					}
 				}
+			},
+			"0bd340c6_c45b_4f12_9aad_5d9129e7d460": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"6a70ad41_cbac_4bed_a990_84622ad52725": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"fb6b1988_1508_4c41_9b5f_ca3feeb3e64e": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"47510ef2_a7f0_46eb_acb2_b5d5e228e230": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"51496ce2_be79_4c22_9523_25560695ed36": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
 			}
 		}
 	},
@@ -319,6 +369,36 @@
 		"data": {}
 	},
 	"BP/manifest.json": {
+		"data": {}
+	},
+	"BP/items/steak_and_egg.json": {
+		"data": {}
+	},
+	"BP/recipes/steak_and_egg.json": {
+		"data": {}
+	},
+	"BP/items/egg_sandwich.json": {
+		"data": {}
+	},
+	"BP/recipes/egg_sandwich.json": {
+		"data": {}
+	},
+	"BP/items/wheat_flour.json": {
+		"data": {}
+	},
+	"BP/recipes/wheat_flour.json": {
+		"data": {}
+	},
+	"BP/items/egg_tart.json": {
+		"data": {}
+	},
+	"BP/recipes/egg_tart.json": {
+		"data": {}
+	},
+	"BP/items/mutton_and_egg.json": {
+		"data": {}
+	},
+	"BP/recipes/mutton_and_egg.json": {
 		"data": {}
 	}
 }

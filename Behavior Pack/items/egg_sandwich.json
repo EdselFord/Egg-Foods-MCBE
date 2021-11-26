@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.17.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eggfood:egg_sandwich",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:use_duration": 1.5,
+			"minecraft:max_stack_size": 16,
+			"minecraft:food": {
+				"can_always_eat": false,
+				"nutrition": 8,
+				"saturation_modifier": "good"
+			},
+			"minecraft:use_animation": "eat",
+			"minecraft:icon": {
+				"texture": "egg_sandwich"
+			},
+			"minecraft:display_name": {
+				"value": "Egg Sandwich"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.cookedFood"
+			}
+		},
+		"events": {}
+	}
+}

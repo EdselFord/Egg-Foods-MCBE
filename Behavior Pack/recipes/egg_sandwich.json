@@ -1,0 +1,37 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.17.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eggfood:egg_sandwich"
+		},
+		"tags": [
+			"cooking_table"
+		],
+		"pattern": [
+			"XYZ",
+			"Y"
+		],
+		"key": {
+			"X": {
+				"item": "eggfood:skillet"
+			},
+			"Y": {
+				"item": "eggfood:slice_of_toast"
+			},
+			"Z": {
+				"item": "minecraft:egg"
+			}
+		},
+		"result": [
+			{
+				"item": "eggfood:egg_sandwich",
+				"count": 1
+			},
+			{
+				"item": "eggfood:skillet",
+				"count": 1
+			}
+		]
+	}
+}

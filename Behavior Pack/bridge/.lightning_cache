@@ -121,6 +121,36 @@
 				"eggfood:french_toast"
 			],
 			"custom_commands": []
+		},
+		"BP/items/steak_and_egg.json": {
+			"identifiers": [
+				"eggfood:mutton_and_egg"
+			],
+			"custom_commands": []
+		},
+		"BP/items/egg_sandwich.json": {
+			"identifiers": [
+				"eggfood:egg_sandwich"
+			],
+			"custom_commands": []
+		},
+		"BP/items/wheat_flour.json": {
+			"identifiers": [
+				"eggfood:wheat_flour"
+			],
+			"custom_commands": []
+		},
+		"BP/items/egg_tart.json": {
+			"identifiers": [
+				"eggfood:egg_tart"
+			],
+			"custom_commands": []
+		},
+		"BP/items/mutton_and_egg.json": {
+			"identifiers": [
+				"eggfood:mutton_and_egg"
+			],
+			"custom_commands": []
 		}
 	},
 	"block": {
@@ -251,6 +281,31 @@
 			]
 		},
 		"BP/recipes/french_toast.json": {
+			"tags": [
+				"cooking_table"
+			]
+		},
+		"BP/recipes/steak_and_egg.json": {
+			"tags": [
+				"cooking_table"
+			]
+		},
+		"BP/recipes/egg_sandwich.json": {
+			"tags": [
+				"cooking_table"
+			]
+		},
+		"BP/recipes/wheat_flour.json": {
+			"tags": [
+				"cooking_table"
+			]
+		},
+		"BP/recipes/egg_tart.json": {
+			"tags": [
+				"cooking_table"
+			]
+		},
+		"BP/recipes/mutton_and_egg.json": {
 			"tags": [
 				"cooking_table"
 			]

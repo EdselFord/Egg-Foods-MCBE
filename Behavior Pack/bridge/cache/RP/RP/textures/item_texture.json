@@ -3,7 +3,7 @@
 	"file_type": "item_texture",
 	"format_version": 1,
 	"file_uuid": "35e573b7_c3f7_4b18_8692_121d914560dd",
-	"file_version": 15,
+	"file_version": 20,
 	"cache_content": {
 		"children": [
 			{
@@ -107,6 +107,31 @@
 						"french_toast": {
 							"textures": [
 								"textures/items/french_toast"
+							]
+						},
+						"steak_and_egg": {
+							"textures": [
+								"textures/items/steak_and_egg"
+							]
+						},
+						"egg_sandwich": {
+							"textures": [
+								"textures/items/egg_sandwich"
+							]
+						},
+						"wheat_flour": {
+							"textures": [
+								"textures/items/wheat_flour"
+							]
+						},
+						"egg_tart": {
+							"textures": [
+								"textures/items/egg_tart"
+							]
+						},
+						"mutton_and_egg": {
+							"textures": [
+								"textures/items/mutton_and_egg"
 							]
 						}
 					}
@@ -391,6 +416,208 @@
 								"is_minified": true,
 								"children": [
 									"textures/items/french_toast"
+								]
+							}
+						]
+					},
+					{
+						"key": "steak_and_egg",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/steak_and_egg"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/steak_and_egg"
+								]
+							}
+						]
+					},
+					{
+						"key": "egg_sandwich",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/egg_sandwich"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/egg_sandwich"
+								]
+							}
+						]
+					},
+					{
+						"key": "wheat_flour",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/wheat_flour"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/wheat_flour"
+								]
+							}
+						]
+					},
+					{
+						"key": "egg_tart",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/egg_tart"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/egg_tart"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"mixing_bowl": {
+								"textures": [
+									"textures/items/mixing_bowl"
+								]
+							},
+							"toast": {
+								"textures": [
+									"textures/items/toast"
+								]
+							},
+							"skillet": {
+								"textures": [
+									"textures/items/skillet"
+								]
+							},
+							"butter": {
+								"textures": [
+									"textures/items/butter"
+								]
+							},
+							"saucepan": {
+								"textures": [
+									"textures/items/saucepan"
+								]
+							},
+							"salt": {
+								"textures": [
+									"textures/items/salt"
+								]
+							},
+							"heavy_cream": {
+								"textures": [
+									"textures/items/heavy_cream"
+								]
+							},
+							"fried_egg": {
+								"textures": [
+									"textures/items/fried_egg"
+								]
+							},
+							"scramble_egg": {
+								"textures": [
+									"textures/items/scrabbled_egg"
+								]
+							},
+							"plate": {
+								"textures": [
+									"textures/items/plate"
+								]
+							},
+							"omelette_egg": {
+								"textures": [
+									"textures/items/omelette_egg"
+								]
+							},
+							"raw_egg_in_a_bowl": {
+								"textures": [
+									"textures/items/raw_egg_in_a_bowl"
+								]
+							},
+							"shirred_egg": {
+								"textures": [
+									"textures/items/shirred_egg"
+								]
+							},
+							"bacon_and_egg": {
+								"textures": [
+									"textures/items/bacon_and_egg"
+								]
+							},
+							"slice_of_toast": {
+								"textures": [
+									"textures/items/slice_of_toast"
+								]
+							},
+							"egg_on_toast": {
+								"textures": [
+									"textures/items/egg_on_toast"
+								]
+							},
+							"kitchen_knife": {
+								"textures": [
+									"textures/items/kitchen_knife"
+								]
+							},
+							"french_toast": {
+								"textures": [
+									"textures/items/french_toast"
+								]
+							},
+							"steak_and_egg": {
+								"textures": [
+									"textures/items/steak_and_egg"
+								]
+							},
+							"egg_sandwich": {
+								"textures": [
+									"textures/items/egg_sandwich"
+								]
+							},
+							"wheat_flour": {
+								"textures": [
+									"textures/items/wheat_flour"
+								]
+							},
+							"egg_tart": {
+								"textures": [
+									"textures/items/egg_tart"
+								]
+							},
+							"mutton_and_egg": {
+								"textures": [
+									"textures/items/mutton_and_egg"
+								]
+							}
+						},
+						"key": "mutton_and_egg",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/mutton_and_egg"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/mutton_and_egg"
 								]
 							}
 						]

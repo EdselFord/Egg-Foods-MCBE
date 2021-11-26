@@ -3,7 +3,7 @@
 	"file_type": "item",
 	"format_version": 1,
 	"file_uuid": "bd12554c_dde1_449a_b8d1_80b6ba62073a",
-	"file_version": 0,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
@@ -24,6 +24,15 @@
 								"using_converts_to": "eggfood:plate"
 							},
 							"minecraft:use_animation": "eat",
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.cookedFood"
+							},
+							"minecraft:icon": {
+								"texture": "french_toast"
+							},
+							"minecraft:display_name": {
+								"value": "French Toast"
+							},
 							"minecraft:render_offsets": {
 								"main_hand": {
 									"first_person": {
@@ -41,15 +50,6 @@
 										]
 									}
 								}
-							},
-							"minecraft:creative_category": {
-								"parent": "itemGroup.name.cookedFood"
-							},
-							"minecraft:icon": {
-								"texture": "french_toast"
-							},
-							"minecraft:display_name": {
-								"value": "French Toast"
 							}
 						}
 					}
@@ -75,6 +75,15 @@
 								"using_converts_to": "eggfood:plate"
 							},
 							"minecraft:use_animation": "eat",
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.cookedFood"
+							},
+							"minecraft:icon": {
+								"texture": "french_toast"
+							},
+							"minecraft:display_name": {
+								"value": "French Toast"
+							},
 							"minecraft:render_offsets": {
 								"main_hand": {
 									"first_person": {
@@ -92,15 +101,6 @@
 										]
 									}
 								}
-							},
-							"minecraft:creative_category": {
-								"parent": "itemGroup.name.cookedFood"
-							},
-							"minecraft:icon": {
-								"texture": "french_toast"
-							},
-							"minecraft:display_name": {
-								"value": "French Toast"
 							}
 						}
 					}
@@ -123,6 +123,15 @@
 									"using_converts_to": "eggfood:plate"
 								},
 								"minecraft:use_animation": "eat",
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.cookedFood"
+								},
+								"minecraft:icon": {
+									"texture": "french_toast"
+								},
+								"minecraft:display_name": {
+									"value": "French Toast"
+								},
 								"minecraft:render_offsets": {
 									"main_hand": {
 										"first_person": {
@@ -140,15 +149,6 @@
 											]
 										}
 									}
-								},
-								"minecraft:creative_category": {
-									"parent": "itemGroup.name.cookedFood"
-								},
-								"minecraft:icon": {
-									"texture": "french_toast"
-								},
-								"minecraft:display_name": {
-									"value": "French Toast"
 								}
 							}
 						},
@@ -175,6 +175,15 @@
 									"using_converts_to": "eggfood:plate"
 								},
 								"minecraft:use_animation": "eat",
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.cookedFood"
+								},
+								"minecraft:icon": {
+									"texture": "french_toast"
+								},
+								"minecraft:display_name": {
+									"value": "French Toast"
+								},
 								"minecraft:render_offsets": {
 									"main_hand": {
 										"first_person": {
@@ -192,356 +201,49 @@
 											]
 										}
 									}
-								},
-								"minecraft:creative_category": {
-									"parent": "itemGroup.name.cookedFood"
-								},
-								"minecraft:icon": {
-									"texture": "french_toast"
-								},
-								"minecraft:display_name": {
-									"value": "French Toast"
 								}
 							}
 						},
 						"key": "components",
-						"children": [
-							{
-								"data": "2",
-								"key": "minecraft:use_duration"
+						"is_minified": true,
+						"children": {
+							"minecraft:use_duration": 2,
+							"minecraft:max_stack_size": 1,
+							"minecraft:food": {
+								"nutrition": 7,
+								"can_always_eat": false,
+								"saturation_modifier": "max",
+								"using_converts_to": "eggfood:plate"
 							},
-							{
-								"data": "1",
-								"key": "minecraft:max_stack_size"
+							"minecraft:use_animation": "eat",
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.cookedFood"
 							},
-							{
-								"open": {
-									"minecraft:use_duration": 2,
-									"minecraft:max_stack_size": 1,
-									"minecraft:food": {
-										"nutrition": 7,
-										"can_always_eat": false,
-										"saturation_modifier": "max",
-										"using_converts_to": "eggfood:plate"
-									},
-									"minecraft:use_animation": "eat",
-									"minecraft:render_offsets": {
-										"main_hand": {
-											"first_person": {
-												"scale": [
-													0.0175,
-													0.0175,
-													0.0175
-												]
-											},
-											"third_person": {
-												"scale": [
-													0.0375,
-													0.0625,
-													0.0375
-												]
-											}
-										}
-									},
-									"minecraft:creative_category": {
-										"parent": "itemGroup.name.cookedFood"
-									},
-									"minecraft:icon": {
-										"texture": "french_toast"
-									},
-									"minecraft:display_name": {
-										"value": "French Toast"
-									}
-								},
-								"key": "minecraft:food",
-								"is_minified": true,
-								"children": {
-									"nutrition": 7,
-									"can_always_eat": false,
-									"saturation_modifier": "max",
-									"using_converts_to": "eggfood:plate"
-								}
+							"minecraft:icon": {
+								"texture": "french_toast"
 							},
-							{
-								"data": "eat",
-								"key": "minecraft:use_animation"
+							"minecraft:display_name": {
+								"value": "French Toast"
 							},
-							{
-								"open": {
-									"minecraft:use_duration": 2,
-									"minecraft:max_stack_size": 1,
-									"minecraft:food": {
-										"nutrition": 7,
-										"can_always_eat": false,
-										"saturation_modifier": "max",
-										"using_converts_to": "eggfood:plate"
+							"minecraft:render_offsets": {
+								"main_hand": {
+									"first_person": {
+										"scale": [
+											0.0175,
+											0.0175,
+											0.0175
+										]
 									},
-									"minecraft:use_animation": "eat",
-									"minecraft:render_offsets": {
-										"main_hand": {
-											"first_person": {
-												"scale": [
-													0.0175,
-													0.0175,
-													0.0175
-												]
-											},
-											"third_person": {
-												"scale": [
-													0.0375,
-													0.0625,
-													0.0375
-												]
-											}
-										}
-									},
-									"minecraft:creative_category": {
-										"parent": "itemGroup.name.cookedFood"
-									},
-									"minecraft:icon": {
-										"texture": "french_toast"
-									},
-									"minecraft:display_name": {
-										"value": "French Toast"
-									}
-								},
-								"key": "minecraft:render_offsets",
-								"children": [
-									{
-										"open": {
-											"main_hand": {
-												"first_person": {
-													"scale": [
-														0.0175,
-														0.0175,
-														0.0175
-													]
-												},
-												"third_person": {
-													"scale": [
-														0.0375,
-														0.0625,
-														0.0375
-													]
-												}
-											}
-										},
-										"key": "main_hand",
-										"children": [
-											{
-												"open": {
-													"first_person": {
-														"scale": [
-															0.0175,
-															0.0175,
-															0.0175
-														]
-													},
-													"third_person": {
-														"scale": [
-															0.0375,
-															0.0625,
-															0.0375
-														]
-													}
-												},
-												"key": "first_person",
-												"children": [
-													{
-														"open": {
-															"scale": [
-																0.0175,
-																0.0175,
-																0.0175
-															]
-														},
-														"key": "scale",
-														"is_minified": true,
-														"children": [
-															0.0175,
-															0.0175,
-															0.0175
-														]
-													}
-												]
-											},
-											{
-												"open": {
-													"first_person": {
-														"scale": [
-															0.0175,
-															0.0175,
-															0.0175
-														]
-													},
-													"third_person": {
-														"scale": [
-															0.0375,
-															0.0625,
-															0.0375
-														]
-													}
-												},
-												"key": "third_person",
-												"children": [
-													{
-														"open": {
-															"scale": [
-																0.0375,
-																0.0625,
-																0.0375
-															]
-														},
-														"key": "scale",
-														"is_minified": true,
-														"children": [
-															0.0375,
-															0.0625,
-															0.0375
-														]
-													}
-												]
-											}
+									"third_person": {
+										"scale": [
+											0.0375,
+											0.0625,
+											0.0375
 										]
 									}
-								]
-							},
-							{
-								"open": {
-									"minecraft:use_duration": 2,
-									"minecraft:max_stack_size": 1,
-									"minecraft:food": {
-										"nutrition": 7,
-										"can_always_eat": false,
-										"saturation_modifier": "max",
-										"using_converts_to": "eggfood:plate"
-									},
-									"minecraft:use_animation": "eat",
-									"minecraft:render_offsets": {
-										"main_hand": {
-											"first_person": {
-												"scale": [
-													0.0175,
-													0.0175,
-													0.0175
-												]
-											},
-											"third_person": {
-												"scale": [
-													0.0375,
-													0.0625,
-													0.0375
-												]
-											}
-										}
-									},
-									"minecraft:creative_category": {
-										"parent": "itemGroup.name.cookedFood"
-									},
-									"minecraft:icon": {
-										"texture": "french_toast"
-									},
-									"minecraft:display_name": {
-										"value": "French Toast"
-									}
-								},
-								"key": "minecraft:creative_category",
-								"is_minified": true,
-								"children": {
-									"parent": "itemGroup.name.cookedFood"
-								}
-							},
-							{
-								"open": {
-									"minecraft:use_duration": 2,
-									"minecraft:max_stack_size": 1,
-									"minecraft:food": {
-										"nutrition": 7,
-										"can_always_eat": false,
-										"saturation_modifier": "max",
-										"using_converts_to": "eggfood:plate"
-									},
-									"minecraft:use_animation": "eat",
-									"minecraft:render_offsets": {
-										"main_hand": {
-											"first_person": {
-												"scale": [
-													0.0175,
-													0.0175,
-													0.0175
-												]
-											},
-											"third_person": {
-												"scale": [
-													0.0375,
-													0.0625,
-													0.0375
-												]
-											}
-										}
-									},
-									"minecraft:creative_category": {
-										"parent": "itemGroup.name.cookedFood"
-									},
-									"minecraft:icon": {
-										"texture": "french_toast"
-									},
-									"minecraft:display_name": {
-										"value": "French Toast"
-									}
-								},
-								"key": "minecraft:icon",
-								"is_minified": true,
-								"children": {
-									"texture": "french_toast"
-								}
-							},
-							{
-								"open": {
-									"minecraft:use_duration": 2,
-									"minecraft:max_stack_size": 1,
-									"minecraft:food": {
-										"nutrition": 7,
-										"can_always_eat": false,
-										"saturation_modifier": "max",
-										"using_converts_to": "eggfood:plate"
-									},
-									"minecraft:use_animation": "eat",
-									"minecraft:render_offsets": {
-										"main_hand": {
-											"first_person": {
-												"scale": [
-													0.0175,
-													0.0175,
-													0.0175
-												]
-											},
-											"third_person": {
-												"scale": [
-													0.0375,
-													0.0625,
-													0.0375
-												]
-											}
-										}
-									},
-									"minecraft:creative_category": {
-										"parent": "itemGroup.name.cookedFood"
-									},
-									"minecraft:icon": {
-										"texture": "french_toast"
-									},
-									"minecraft:display_name": {
-										"value": "French Toast"
-									}
-								},
-								"key": "minecraft:display_name",
-								"is_minified": true,
-								"children": {
-									"value": "French Toast"
 								}
 							}
-						]
+						}
 					}
 				]
 			}

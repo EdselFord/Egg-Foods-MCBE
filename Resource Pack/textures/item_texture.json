@@ -1,4 +1,4 @@
-//bridge-file-version: #15
+//bridge-file-version: #20
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.items",
@@ -91,6 +91,31 @@
 		"french_toast": {
 			"textures": [
 				"textures/items/french_toast"
+			]
+		},
+		"steak_and_egg": {
+			"textures": [
+				"textures/items/steak_and_egg"
+			]
+		},
+		"egg_sandwich": {
+			"textures": [
+				"textures/items/egg_sandwich"
+			]
+		},
+		"wheat_flour": {
+			"textures": [
+				"textures/items/wheat_flour"
+			]
+		},
+		"egg_tart": {
+			"textures": [
+				"textures/items/egg_tart"
+			]
+		},
+		"mutton_and_egg": {
+			"textures": [
+				"textures/items/mutton_and_egg"
 			]
 		}
 	}

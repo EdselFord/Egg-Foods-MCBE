@@ -3,6 +3,6 @@
 	"file_type": "client_lang",
 	"format_version": 0,
 	"file_uuid": "f17ea66a_ef30_4ba2_8936_65e675bc300e",
-	"file_version": 2,
-	"cache_content": "pack.name=Egg Foods RP V2.0\r\npack.description=This addon is the next version of fried egg addon. This addon add egg food in minecraft. You can try new foods made from eggs in minecraft using this addon.\r\ntile.cooking_table.name=Cooking Table"
+	"file_version": 3,
+	"cache_content": "pack.name=Egg Foods RP V3.0\r\npack.description=This addon is the next version of fried egg addon. This addon add egg food in minecraft. You can try new foods made from eggs in minecraft using this addon.\r\ntile.cooking_table.name=Cooking Table"
 }
