@@ -1,10 +1,9 @@
-//bridge-file-version: #1
 {
 	"format_version": 2,
 	"header": {
-		"name": "pack.name",
-		"description": "pack.description",
-		"uuid": "92585ffd-8f0f-4c50-864f-43b723abbf7e",
+		"name": "Egg Foods RP V3.1",
+		"description": "This addon is the next version of fried egg addon. This addon add egg food in minecraft. You can try new foods made from eggs in minecraft using this addon",
+		"uuid": "01aa3d4d-a94a-4912-a277-7a124f917eca",
 		"version": [
 			1,
 			0,
@@ -19,7 +18,7 @@
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "55b656c9-2275-46b2-bb7a-2eb8452457d5",
+			"uuid": "6cf27496-02a1-478e-a1f0-9db870fe4fe3",
 			"version": [
 				1,
 				0,

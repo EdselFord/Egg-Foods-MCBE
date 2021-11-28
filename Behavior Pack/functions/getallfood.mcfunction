@@ -1,0 +1,13 @@
+give @s eggfood:bacon_and_egg
+give @s eggfood:egg_on_toast
+give @s eggfood:egg_sandwich
+give @s eggfood:egg_tart
+give @s eggfood:french_toast
+give @s eggfood:fried_egg
+give @s eggfood:mutton_and_egg
+give @s eggfood:omelette_egg
+give @s eggfood:scramble_egg
+give @s eggfood:shirred_egg
+give @s eggfood:slice_of_toast
+give @s eggfood:steak_and_egg
+give @s eggfood:toast

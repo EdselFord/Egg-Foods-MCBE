@@ -1,6 +1,5 @@
-//bridge-file-version: #6
 {
-	"format_version": 1.17,
+	"format_version": "1.16.100",
 	"minecraft:block": {
 		"description": {
 			"identifier": "eggfood:cooking_table",
@@ -22,7 +21,6 @@
 				],
 				"custom_description": "Cooking Table"
 			},
-			"minecraft:loot": "loot_tables/stove_oven.json",
 			"minecraft:map_color": "#B48C4F",
 			"minecraft:material_instances": {
 				"north": {
@@ -50,14 +48,17 @@
 					"texture": "cooking_table_bottom"
 				}
 			},
-			"minecraft:destroy_time": 2,
+			"minecraft:destroy_time": 0.5,
 			"minecraft:block_light_emission": 0,
 			"minecraft:block_light_absorption": 1,
 			"minecraft:explosion_resistance": 8,
 			"minecraft:on_player_placing": {
 				"event": "statement_state"
 			},
-			"minecraft:display_name": "cooking_table"
+			"minecraft:display_name": "cooking_table",
+			"minecraft:creative_category": { 
+				"category": "Items"
+			}
 		},
 		"events": {
 			"statement_state": {
